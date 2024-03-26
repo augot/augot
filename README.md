@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning C++, Java
 - 📫 How to reach me write on Twitter
 - ⚡ Fun fact: Crypto Old
+- Degen Mode Turn OOOONNNNNN
 
 <!---
 augot/augot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
